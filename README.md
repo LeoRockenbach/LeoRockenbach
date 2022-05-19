@@ -1,7 +1,7 @@
 ### Olá! Eu sou Leonardo Rockenbach😃
 
 
-- 🌱 Estudando React
+- 🌱 Estudando Banco de dados NoSQL com MongoDB
 - 📫 Contate-me em: Leonardo.rockenbach.99@gmail.com  
 
 <div align="center">
