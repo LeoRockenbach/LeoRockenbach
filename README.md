@@ -1,7 +1,7 @@
 ### Olá! Eu sou Leonardo Rockenbach😃
 
 
-- 🌱 Estudando Banco de dados NoSQL com MongoDB
+- 🌱 Estudando Banco de dados NoSQL com React
 - 📫 Contate-me em: Leonardo.rockenbach.99@gmail.com  
 
 <div align="center">
@@ -16,7 +16,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
           
           
           
