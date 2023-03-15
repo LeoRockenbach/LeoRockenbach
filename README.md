@@ -1,7 +1,5 @@
 ### Olá! Eu sou Leonardo Rockenbach😃
 
-
-- 🌱 Estudando React e Node.js
 - 📫 Contate-me em: Leonardo.rockenbach.99@gmail.com  
 
 <div align="center">
